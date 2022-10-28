@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Blake Zajac
 A passionate Sydney-based Product Designer specialising in product design, great user experience, Figma and WordPress. I am currently learning React.
 
-# 👀 Interests product design, UX, front end development, Wordpress, React, photography, fashion, gaming and music.
+# 👀 Interests
 - Product Design
 - UX
 - Front End Development
