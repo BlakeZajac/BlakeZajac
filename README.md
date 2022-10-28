@@ -7,7 +7,7 @@
 # Most used languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BlakeZajac&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-# What I use
+# Languages and tools
 [![My Skills](https://skillicons.dev/icons?i=html,js,css,sass,tailwind,react,,wordpressfigma)](https://skillicons.dev)
 
 <!---
