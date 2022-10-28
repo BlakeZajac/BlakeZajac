@@ -4,8 +4,7 @@
 - 💞️ I’m looking to collaborate on front end design, product design and front end development projects.
 - 📫 Say hello—contact@blakezajac.com
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BlakeZajac)]
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BlakeZajac&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 BlakeZajac/BlakeZajac is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
