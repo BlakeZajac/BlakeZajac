@@ -23,7 +23,7 @@ contact@blakezajac.com
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BlakeZajac&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 # Languages and tools
-[![My Skills](https://skillicons.dev/icons?i=html,js,css,sass,tailwind,react,,wordpressfigma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,js,css,sass,tailwind,react,wordpress,figma)](https://skillicons.dev)
 
 <!---
 BlakeZajac/BlakeZajac is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
