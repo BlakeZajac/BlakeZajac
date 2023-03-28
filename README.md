@@ -1,28 +1,26 @@
-# 👋 Hi, I’m Blake Zajac
-A passionate Sydney-based Product Designer specialising in product design, great user experience, Figma and WordPress. I am currently learning React.
+# 👋 Hi there, I'm Blake Zajac!
+I'm a Sydney-based UX designer with a passion for creating exceptional user experiences. My design philosophy centres around simplicity, elegance, and functionality, and I specialise in Figma and WordPress to bring my ideas to life. I'm constantly learning and growing, and I'm currently working on expanding my skills in React.
 
 # 👀 Interests
-- Product Design
-- UX
-- Front End Development
-- WordPress
-- React
-- Photography
-- Fashion
-- Gaming
-- Music
+In addition to my work as a product designer, I have a wide range of interests that keep me inspired and engaged. Some of my favorites include:
 
-# I'm looking to collaborate on
-- Front end and product design projects
-- Front end development projects
+- 🎨 Photography and fashion: I love exploring visual aesthetics and using my camera to capture the beauty of the world around me.
+- 🎮 Gaming: Whether I'm playing on my PC or my phone, I love immersing myself in new worlds and challenging my skills.
+- 🎵 I find inspiration in everything from classical to hip-hop and love discovering new artists and genres.
 
-# 📫 Say hello
-contact@blakezajac.com
+# 💻 What I'm working on
+Right now, I'm actively seeking new opportunities to collaborate on exciting front-end development and product design projects. If you have a project you'd like to work on together, please don't hesitate to get in touch!
 
-# Most used languages
+# 📫 Get in touch
+You can reach me at contact@blakezajac.com to say hello, discuss potential collaborations, or just chat about design and tech.
+
+# Skills
+I'm proficient in a wide range of languages and tools, including:
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BlakeZajac&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-# Languages and tools
+Additionally, here are my most frequently-used languages on GitHub:
+
 [![My Skills](https://skillicons.dev/icons?i=react,wordpress,figma,js,sass,css,tailwind,html)](https://skillicons.dev)
 
 <!---
