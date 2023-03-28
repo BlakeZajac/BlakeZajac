@@ -17,12 +17,11 @@ You can reach me at contact@blakezajac.com to say hello, discuss potential colla
 # Skills
 I'm proficient in a wide range of languages and tools, including:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BlakeZajac&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![My Skills](https://skillicons.dev/icons?i=react,wordpress,figma,js,sass,css,tailwind,html)](https://skillicons.dev)
 
 Additionally, here are my most frequently-used languages on GitHub:
 
-[![My Skills](https://skillicons.dev/icons?i=react,wordpress,figma,js,sass,css,tailwind,html)](https://skillicons.dev)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BlakeZajac&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!---
 BlakeZajac/BlakeZajac is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
