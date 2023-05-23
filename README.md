@@ -17,7 +17,7 @@ You can reach me at contact@blakezajac.com to say hello, discuss potential colla
 # Skills
 I'm proficient in a wide range of languages and tools, including:
 
-[![My Skills](https://skillicons.dev/icons?i=react,wordpress,figma,js,sass,css,tailwind,html)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,wordpress,php,figma,js,sass,css,tailwind,html)](https://skillicons.dev)
 
 Additionally, here are my most frequently-used languages on GitHub:
 
