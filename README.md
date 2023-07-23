@@ -1,5 +1,5 @@
 # 👋 Hi there, I'm Blake Zajac!
-I'm a Sydney-based UX designer with a passion for creating exceptional user experiences. My design philosophy centres around simplicity, elegance, and functionality, and I specialise in Figma and WordPress to bring my ideas to life. I'm constantly learning and growing, and I'm currently working on expanding my skills in React.
+I'm a Sydney-based UX designer with a passion for creating exceptional user experiences. My design philosophy centres around simplicity, elegance, and functionality, and I specialise in Figma and WordPress to bring my ideas to life. I'm constantly learning and growing, and I'm currently working on expanding my skills in React, TypeScript, and full-stack development.
 
 # 👀 Interests
 In addition to my work as a UX designer, I have a wide range of interests that keep me inspired and engaged. Some of my favorites include:
