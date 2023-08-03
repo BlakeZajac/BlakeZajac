@@ -3,6 +3,7 @@ I'm a Sydney-based UX designer with a passion for creating exceptional user expe
 
 # ✏️ Currently working on
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=blakezajac&repo=github-readme-stats)](https://github.com/blakezajac/spotify)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=blakezajac&repo=github-readme-stats)](https://github.com/blakezajac/wejoy)
 
 # 👀 Interests
 In addition to my work as a UX designer, I have a wide range of interests that keep me inspired and engaged. Some of my favorites include:
