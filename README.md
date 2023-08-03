@@ -1,5 +1,5 @@
 # 👋 Hi there, I'm Blake Zajac!
-I'm a Sydney-based UX designer with a passion for creating exceptional user experiences. My design philosophy centres around simplicity, elegance, and functionality, and I specialise in Figma and WordPress to bring my ideas to life. I'm constantly learning and growing, and I'm currently working on expanding my skills in React, TypeScript, and full-stack development.
+I'm a Newcastle-based front end developer and UX designer with a passion for creating exceptional user experiences. I'm constantly learning and growing, and I'm currently working on expanding my skills in React, TypeScript, and full-stack development.
 
 # ✏️ Currently working on
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BlakeZajac&repo=spotify)](https://github.com/BlakeZajac/spotify)
