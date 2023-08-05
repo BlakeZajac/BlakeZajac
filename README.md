@@ -2,10 +2,10 @@
 I'm a Newcastle-based front end developer and UX designer with a passion for creating exceptional user experiences. I'm constantly learning and growing, and I'm currently working on expanding my skills in React, TypeScript, and full-stack development.
 
 # ✏️ Currently working on
+Right now, I'm actively seeking new opportunities to collaborate on exciting front-end development and UX design projects. If you have a project you'd like to work on together, please don't hesitate to get in touch!
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BlakeZajac&repo=spotify&hide_description=true)](https://github.com/BlakeZajac/spotify)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BlakeZajac&repo=wejoy&hide_description=true)](https://github.com/BlakeZajac/wejoy)
-
-Right now, I'm actively seeking new opportunities to collaborate on exciting front-end development and UX design projects. If you have a project you'd like to work on together, please don't hesitate to get in touch!
 
 # 👀 Interests
 In addition to my work as a UX designer, I have a wide range of interests that keep me inspired and engaged. Some of my favorites include:
