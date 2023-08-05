@@ -5,15 +5,14 @@ I'm a Newcastle-based front end developer and UX designer with a passion for cre
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BlakeZajac&repo=spotify&hide_description=true)](https://github.com/BlakeZajac/spotify)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BlakeZajac&repo=wejoy&hide_description=true)](https://github.com/BlakeZajac/wejoy)
 
+Right now, I'm actively seeking new opportunities to collaborate on exciting front-end development and UX design projects. If you have a project you'd like to work on together, please don't hesitate to get in touch!
+
 # 👀 Interests
 In addition to my work as a UX designer, I have a wide range of interests that keep me inspired and engaged. Some of my favorites include:
 
 - 🎨 Photography and fashion: I love exploring visual aesthetics and using my camera to capture the beauty of the world around me.
 - 🎮 Gaming: Whether I'm playing on my PC or my phone, I love immersing myself in new worlds and challenging my skills.
 - 🎵 I find inspiration in everything from classical to hip-hop and love discovering new artists and genres.
-
-# 💻 What I'm working on
-Right now, I'm actively seeking new opportunities to collaborate on exciting front-end development and UX design projects. If you have a project you'd like to work on together, please don't hesitate to get in touch!
 
 # 📫 Get in touch
 You can reach me at contact@blakezajac.com to say hello, discuss potential collaborations, or just chat about design and tech.
