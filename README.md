@@ -4,6 +4,7 @@ I'm a Newcastle-based front end developer and UX designer with a passion for cre
 # ✏️ Currently working on
 Right now, I'm actively seeking new opportunities to collaborate on exciting front-end development and UX design projects. If you have a project you'd like to work on together, please don't hesitate to get in touch!
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BlakeZajac&repo=blake-zajac&hide_description=true)](https://github.com/BlakeZajac/blake-zajac)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BlakeZajac&repo=saas-philadelphia&hide_description=true)](https://github.com/BlakeZajac/saas-philadelphia)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BlakeZajac&repo=wejoy&hide_description=true)](https://github.com/BlakeZajac/wejoy)
 
