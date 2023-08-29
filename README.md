@@ -6,6 +6,7 @@ Right now, I'm actively seeking new opportunities to collaborate on exciting fro
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BlakeZajac&repo=blake-zajac&hide_description=true)](https://github.com/BlakeZajac/blake-zajac)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BlakeZajac&repo=airbnb&hide_description=true)](https://github.com/BlakeZajac/airbnb)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BlakeZajac&repo=discord&hide_description=true)](https://github.com/BlakeZajac/discord)
 
 # 👀 Interests
 In addition to my work as a UX designer, I have a wide range of interests that keep me inspired and engaged. Some of my favorites include:
