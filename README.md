@@ -8,13 +8,6 @@ Right now, I'm actively seeking new opportunities to collaborate on exciting fro
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BlakeZajac&repo=airbnb&hide_description=true)](https://github.com/BlakeZajac/airbnb)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BlakeZajac&repo=discord&hide_description=true)](https://github.com/BlakeZajac/discord)
 
-# 👀 Interests
-In addition to my work as a UX designer, I have a wide range of interests that keep me inspired and engaged. Some of my favorites include:
-
-- 🎨 Photography and fashion: I love exploring visual aesthetics and using my camera to capture the beauty of the world around me.
-- 🎮 Gaming: Whether I'm playing on my PC or my phone, I love immersing myself in new worlds and challenging my skills.
-- 🎵 I find inspiration in everything from classical to hip-hop and love discovering new artists and genres.
-
 # 📫 Get in touch
 You can reach me at contact@blakezajac.com to say hello, discuss potential collaborations, or just chat about design and tech.
 
