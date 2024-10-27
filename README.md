@@ -1,5 +1,5 @@
 # 👋 Hi there, I'm Blake Zajac!
-I'm a Newcastle-based front end developer and UX designer with a passion for creating exceptional user experiences. I'm constantly learning and growing, and I'm currently working on expanding my skills in React, TypeScript, and full-stack development.
+I'm a Newcastle-based front-end developer and UX designer with a passion for creating exceptional user experiences. I'm constantly learning and growing, and I'm currently working on expanding my skills in React, TypeScript, and full-stack development.
 
 # 📫 Get in touch
 You can reach me at contact@blakezajac.com to say hello, discuss potential collaborations, or just chat about design and tech.
@@ -7,7 +7,7 @@ You can reach me at contact@blakezajac.com to say hello, discuss potential colla
 # Skills
 I'm proficient in a wide range of languages and tools, including:
 
-[![My Skills](https://skillicons.dev/icons?i=react,nextjs,typescript,js,tailwind,sass,php,wordpress,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=php,wordpress,react,nextjs,typescript,js,tailwind,sass,figma)](https://skillicons.dev)
 
 Additionally, here are my most frequently-used languages on GitHub:
 
